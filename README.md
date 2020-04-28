@@ -60,7 +60,7 @@ docker-compose stop
 [**Manish Kumar Shah**](https://github.com/ManishShah120)
 
 # License
-MIT(http://dfvsfvbhv)
+MIT(https://github.com/ManishShah120/SETYO_BloggingSite/blob/master/LICENSE)
 
 # About
 This is a simple project built with docker to setup an worpress building environment on any system
