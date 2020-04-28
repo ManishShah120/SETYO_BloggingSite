@@ -44,7 +44,7 @@ Hola!, Everything is Set now the containers are now built and running. You shoul
 ![img1](https://github.com/ManishShah120/SETYO_BloggingSite/blob/master/img1.png)
 ![img2](https://github.com/ManishShah120/SETYO_BloggingSite/blob/master/img2.png)
 
-### Fore more reference on docker-compose
+### Fore more reference on docker-compose 
 
 Start the containers with the `up` command in daemon mode (by adding `-d` as an argument) or by using the `start` command:
 
